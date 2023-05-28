@@ -18,9 +18,11 @@ To edit this repository in MakeCode.
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/garragames/field-editor** and click import
 
-## Blocks preview
+### Usage
 
-``` Blocks
+## ``myBlock``
+
+```blocks
 input.onGesture(Gesture.LogoDown, function () {
     myFieldEditor.myBlock("Hola Mundo")
 })
