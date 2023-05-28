@@ -20,6 +20,11 @@ To edit this repository in MakeCode.
 
 ## Blocks preview
 
+``` Blocks
+input.onGesture(Gesture.LogoDown, function () {
+    myFieldEditor.myBlock("Hola Mundo")
+})
+```
 This image shows the blocks code from the last commit in master.
 This image may take a few minutes to refresh.
 
