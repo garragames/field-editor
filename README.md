@@ -18,9 +18,9 @@ To edit this repository in MakeCode.
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/garragames/field-editor** and click import
 
-### Usage
+## Usage
 
-## ``myBlock``
+### ``myBlock``
 
 ```blocks
 input.onGesture(Gesture.LogoDown, function () {
